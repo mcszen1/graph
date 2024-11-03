@@ -8,8 +8,8 @@ from io import BytesIO, StringIO
 st.image ("NIDLogo.jpg")
 st.title ("Gerador de Grafos Interativos Baseado em Ontologias")
 st.markdown ('*Ferramenta Desenvolvida pelo NID/LABCOM/UFMA  em projeto apoiado pela FAPEMA*')
-st.markdown ("_[Base Conceitual](https://periodicos.ufsc.br/index.php/jornalismo/article/view/95037/55606)_")
 st.markdown (" **_[Para gerar uma ontologia para o seu texto use nossa ferramenta GRAPHMaker](https://chatgpt.com/g/g-HSkRbqVrk-graphmaker)_**")
+st.markdown ("_[Base Conceitual](https://periodicos.ufsc.br/index.php/jornalismo/article/view/95037/55606)_")
 st.markdown ("Para citar: CARNEIRO DOS SANTOS, Marcio. Grafos de conhecimento: explorando o potencial de modelos de geração de linguagem. Estudos em Jornalismo e Mídia, v. 20, n. 2, 2023.")
 
 
